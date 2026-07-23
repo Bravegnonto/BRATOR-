@@ -1,0 +1,16 @@
+{
+  "name": "BRATOR Sports Platform",
+  "short_name": "BRATOR",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#facc15",
+  "description": "Discover sports talent, players and teams.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
